@@ -1,2 +1,2 @@
-# Portfolio.github.io
+# Praveen portfolio.github.io
 My Own portfolio website
